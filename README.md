@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**AbbyMoraa/AbbyMoraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Abby, a software engineer based in Nairobi.
 
-Here are some ideas to get you started:
+I mostly work on frontend and backend stuff — React, JavaScript, Tailwind and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a Microsoft certfied data analyst.
+
+This is a profile showcasing projects that I have worked on.
+
+🛠 Tools & Tech
+
+React, TypeScript, Tailwind
+Python, SQL
+EXcel, PowerBI
+
+A Bit About Me
+
+🧠 I like building things that are simple, useful, and easy to understand
